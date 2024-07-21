@@ -28,7 +28,7 @@ export const WelcomeInput = () => {
   };
 
   useEffect(() => {
-    setDisabled(name.length == 0);
+    setDisabled(name.length === 0);
   }, [name]);
 
   const fetchData = async () => {

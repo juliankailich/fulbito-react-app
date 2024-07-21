@@ -167,7 +167,6 @@ export const Home = () => {
                   }
                   style={{
                     backgroundColor: "transparent",
-                    color: "white",
                     border: "none",
                     cursor: "pointer",
                     fontSize: "2rem",
