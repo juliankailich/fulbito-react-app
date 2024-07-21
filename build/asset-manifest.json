@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fulbito-app/static/css/main.8442da3d.css",
-    "main.js": "/fulbito-app/static/js/main.4daabb88.js",
+    "main.js": "/fulbito-app/static/js/main.58e0e77a.js",
     "static/js/453.8525ff1c.chunk.js": "/fulbito-app/static/js/453.8525ff1c.chunk.js",
     "index.html": "/fulbito-app/index.html",
     "main.8442da3d.css.map": "/fulbito-app/static/css/main.8442da3d.css.map",
-    "main.4daabb88.js.map": "/fulbito-app/static/js/main.4daabb88.js.map",
+    "main.58e0e77a.js.map": "/fulbito-app/static/js/main.58e0e77a.js.map",
     "453.8525ff1c.chunk.js.map": "/fulbito-app/static/js/453.8525ff1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8442da3d.css",
-    "static/js/main.4daabb88.js"
+    "static/js/main.58e0e77a.js"
   ]
 }
