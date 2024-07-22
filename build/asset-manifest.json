@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fulbito-app/static/css/main.8442da3d.css",
-    "main.js": "/fulbito-app/static/js/main.c5ab831e.js",
-    "static/js/453.8525ff1c.chunk.js": "/fulbito-app/static/js/453.8525ff1c.chunk.js",
-    "index.html": "/fulbito-app/index.html",
-    "main.8442da3d.css.map": "/fulbito-app/static/css/main.8442da3d.css.map",
-    "main.c5ab831e.js.map": "/fulbito-app/static/js/main.c5ab831e.js.map",
-    "453.8525ff1c.chunk.js.map": "/fulbito-app/static/js/453.8525ff1c.chunk.js.map"
+    "main.css": "/fulbito-react-app/static/css/main.8442da3d.css",
+    "main.js": "/fulbito-react-app/static/js/main.1eb0cd21.js",
+    "static/js/453.8525ff1c.chunk.js": "/fulbito-react-app/static/js/453.8525ff1c.chunk.js",
+    "index.html": "/fulbito-react-app/index.html",
+    "main.8442da3d.css.map": "/fulbito-react-app/static/css/main.8442da3d.css.map",
+    "main.1eb0cd21.js.map": "/fulbito-react-app/static/js/main.1eb0cd21.js.map",
+    "453.8525ff1c.chunk.js.map": "/fulbito-react-app/static/js/453.8525ff1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8442da3d.css",
-    "static/js/main.c5ab831e.js"
+    "static/js/main.1eb0cd21.js"
   ]
 }
