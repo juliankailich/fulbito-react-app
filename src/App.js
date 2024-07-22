@@ -9,12 +9,10 @@ import { Home } from "./pages/home";
 
 function App() {
   return (
-    <Router>
       <Routes>
         <Route path="/" element={<WelcomeInput />} />
         <Route path="/home" element={<Home />} />
       </Routes>
-    </Router>
   );
 }
 
